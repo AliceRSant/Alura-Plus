@@ -10,6 +10,10 @@ body {
     color: var(--branco-principal);
 }
 
+. {
+    margin: 0;
+    padding: 0;
+}
 
 
 .principal {
@@ -33,5 +37,7 @@ body {
 }
 
 .botao_secundario {
-    background-color: ;
+    background-color: transparent;
+    border: 2px solid var(--branco-principal);
+    border-radius: 16px;
 }
