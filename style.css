@@ -46,3 +46,12 @@ body {
     font-size: 12px;
     color: var(--cinza-secundario);
 }
+
+.container__titulo {
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.container__imagem {
+margin: 1em 0 2em 0;
+}
