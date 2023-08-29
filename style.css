@@ -20,6 +20,8 @@ body {
     background-image: url("Background.png");
     background-repeat: no-repeat;
     background-size: contain;
+    align-items: center;
+    text-align: center;
 }
 
 .container {
@@ -59,4 +61,13 @@ margin: 1em 0 2em 0;
 .container__caixa {
     margin: 0 6em;
     margin-top: 150px;
+}
+
+.secundario__imagem {
+    width: 80%;
+    align-items: center;
+}
+
+.secundario {
+    align-items: center;
 }
