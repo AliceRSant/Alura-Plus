@@ -108,5 +108,7 @@ margin: 1em 0 2em 0;
 }
 
 .lista__link {
-    
+    text-decoration: none;
+    color: var(--branco-principal);
+    margin-left: 1em;
 }
